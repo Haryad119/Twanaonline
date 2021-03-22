@@ -103,7 +103,7 @@ const Twana100= new Discord.Client();
 
 
 
-Twana1.login("");
+Twana1.login("ODIzNTE5OTkxMDY3NzA1MzQ2.YFiBig.QghK055ce0qIsauHC9xeXARtRR4");
 Twana2.login("");
 Twana3.login("");
 Twana4.login("");
